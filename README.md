@@ -1,5 +1,5 @@
 # Simple-SFML-Test
-A Simple (Bad Made And Stuctured) Graphics Test Made With ImGui And SFML.
+A Simple (Badly Made And Stuctured) Graphics Test Made With ImGui And SFML.
 Include paths may have to be configured when downloaded, not sure though. Just a heads up :)
 
 Preview:
